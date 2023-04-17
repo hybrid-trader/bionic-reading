@@ -1,6 +1,8 @@
 # Bionic Reading
 
-A simple yet effective take on the bionic reading method to help ADHD users. The method was developed by ** and various apps can be found at the following link (https://bionic-reading.com/) However there are times when I have found the need to not remove all the dressing from a page, that and I wanted to create a userscript for the fun of it. It is pretty simple in its use, iterating through most of the recognisable text on a page and rendering the first half of them bold, <b>whi</b>ch <b>hel</b>ps <b>so</b>me of us <b>wi</b>th ADHD to <b>foc</b>us <b>bet</b>ter <b>wh</b>en <b>rea</b>ding.
+A simple yet effective take on the bionic reading method to help ADHD users. The method was developed by Renato Casutt, various apps can be found at the following link (https://bionic-reading.com/) 
+
+However there are times when I have found the need to not remove all the dressing from a page, that and I wanted to create a userscript for the fun of it. It is pretty simple in its use, iterating through most of the recognisable text on a page and rendering the first half of them bold, <b>whi</b>ch <b>hel</b>ps <b>so</b>me of us <b>wi</b>th ADHD to <b>foc</b>us <b>bet</b>ter <b>wh</b>en <b>rea</b>ding.
 
 To use this script first install Tampermonkey or similar:
 - [Chrome extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
